@@ -145,17 +145,4 @@ django-clinic-management/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## 🔮 Future Enhancements
-
-- [ ] Patient medical history
-- [ ] Prescription management
-- [ ] Payment integration
-- [ ] Video consultations
-- [ ] Mobile app
-- [ ] Advanced reporting
-- [ ] Multi-language support
-- [ ] API endpoints for mobile apps
-
-
-
 
